@@ -10,7 +10,7 @@ el programa desyc fue diseñado para alivianar la carga en la parte administrati
 trabajo
 con el proposito de mejorar la rapidez y fluidez en el almacenamientos de productos
 nuestro trabajo tiene una vision hacia el futuro en tecnologias Systematica computacional ya que casi todas las cosas hoy en dia funcionan con un sistema y nuestro trabajo no se queda atras.
-:smile: 
+:smile: :smile: :smile: 
 
 
 
