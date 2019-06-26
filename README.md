@@ -6,6 +6,10 @@ Es una empresa de ventas de productos de todo tipo tanto en los tecnologico, en 
 
 Desyc es un programa dedicado a la administracion de proveedores junto con los productos correspondientes y tipos correspondientes a productos :smile: :smile: :smile: :smile: :smile:
 
+el programa desyc fue diseñado para alivianar la carga en la parte administrativa de los productos en el ambito del 
+trabajo
+
+
 ![](imagenes/Icono.jpg.png)
 
 
