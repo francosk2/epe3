@@ -110,6 +110,7 @@ public class Logueo extends javax.swing.JFrame {
      * Creates new form Logueo
      */
     public Logueo() {
+        /*Inicia los componente de centralizacion y el icono*/
         initComponents();
          this.setLocationRelativeTo(null);
         Image ico= Toolkit.getDefaultToolkit().getImage(ClassLoader.getSystemResource("imagenes/d.jpeg"));
