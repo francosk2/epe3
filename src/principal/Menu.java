@@ -108,7 +108,10 @@ public class Menu extends javax.swing.JFrame {
     /**
      * Creates new form Menu
      */
+    
+  /**/
     public Menu() {
+        /*Se inicializan los componentes*/
         initComponents();
         this.setTitle("DESIK");
         this.setLocationRelativeTo(null);
