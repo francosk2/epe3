@@ -195,6 +195,7 @@ public class Consultas extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton3ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+      /*Se llama a la consulta de 2 tablas*/
         gbd.CONSULTAdostablas(jTable1);
     }//GEN-LAST:event_jButton1ActionPerformed
 
