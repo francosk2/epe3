@@ -9,6 +9,7 @@ Desyc es un programa dedicado a la administracion de proveedores junto con los p
 el programa desyc fue diseñado para alivianar la carga en la parte administrativa de los productos en el ambito del 
 trabajo
 
+con el proposito de mejorar la rapidez y fluidez en el almacenamientos de productos
 
 ![](imagenes/Icono.jpg.png)
 
