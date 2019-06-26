@@ -14,6 +14,8 @@ nuestro trabajo tiene una vision hacia el futuro en tecnologias Systematica comp
 
 
 
-![](imagenes/Icono.jpg.png)
+<img src="https://github.com/francosk2/epe3/blob/master/src/Cliente.png" />
+<img src="https://github.com/francosk2/epe3/blob/master/src/producto.png" />
+<img src="https://github.com/francosk2/epe3/blob/master/src/tipo_producto.png" />
 
 
